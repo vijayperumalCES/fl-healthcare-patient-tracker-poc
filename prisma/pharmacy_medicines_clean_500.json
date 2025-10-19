@@ -1,0 +1,5590 @@
+[
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Insomnia",
+      "Hypertension",
+      "Anxiety",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Ulcer",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Constipation",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Cold",
+      "Migraine",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Thyroid Disorder",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Fever",
+      "Depression",
+      "Constipation",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Ulcer",
+      "Thyroid Disorder",
+      "Asthma",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Insomnia",
+      "Migraine",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Migraine",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Ulcer",
+      "Insomnia",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Hypertension",
+      "Acidity",
+      "Arthritis",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Hypertension",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Migraine",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Ulcer",
+      "Migraine",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Migraine",
+      "Fever",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Hypertension",
+      "Depression",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Infection",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Hypertension",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Diabetes",
+      "Arthritis",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Anxiety",
+      "Thyroid Disorder",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Cough",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Migraine",
+      "Cholesterol",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Cold",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Fever",
+      "Acidity",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Infection",
+      "Heart Disease",
+      "Diabetes",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Arthritis",
+      "Depression",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Arthritis",
+      "Ulcer",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Insomnia",
+      "Anxiety",
+      "Cold",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Insomnia",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Migraine",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Fever",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Allergy",
+      "Arthritis",
+      "Acidity",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Arthritis",
+      "Cough",
+      "Fever",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Arthritis",
+      "Heart Disease",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Hypertension",
+      "Cold",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Depression",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Hypertension",
+      "Insomnia",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Depression",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Pain",
+      "Anxiety",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Diabetes",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Migraine",
+      "Constipation",
+      "Acidity",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Arthritis",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Insomnia",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Pain",
+      "Anxiety",
+      "Infection",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Arthritis",
+      "Constipation",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Acidity",
+      "Cough",
+      "Infection",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Ulcer",
+      "Constipation",
+      "Cold",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Cough",
+      "Cholesterol",
+      "Migraine",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Migraine",
+      "Infection",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Cold",
+      "Acidity",
+      "Asthma",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Depression",
+      "Hypertension",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cough",
+      "Insomnia",
+      "Ulcer",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Asthma",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Depression",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Depression",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Cold",
+      "Arthritis",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Fever",
+      "Migraine",
+      "Cold",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Arthritis",
+      "Acidity",
+      "Constipation",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Ulcer",
+      "Allergy",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Anxiety",
+      "Cold",
+      "Migraine",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Cough",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Anxiety",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Anxiety",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Insomnia",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Cough",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Cough",
+      "Pain",
+      "Arthritis",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Insomnia",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Acidity",
+      "Pain",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder",
+      "Ulcer",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Fever",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Anxiety",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Cold",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Constipation",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Pain",
+      "Acidity",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Infection",
+      "Asthma",
+      "Anxiety",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Asthma",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Diabetes",
+      "Insomnia",
+      "Fever",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Asthma",
+      "Insomnia",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Allergy",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Ulcer",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Infection",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder",
+      "Fever",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Asthma",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Ulcer",
+      "Diabetes",
+      "Cholesterol",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Depression",
+      "Cold",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Ulcer",
+      "Insomnia",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Anxiety",
+      "Fever",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Arthritis",
+      "Constipation",
+      "Cold",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Fever",
+      "Migraine",
+      "Asthma",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Insomnia",
+      "Cough",
+      "Anxiety",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Cough",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Constipation",
+      "Hypertension",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Fever",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Cough",
+      "Thyroid Disorder",
+      "Acidity",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Constipation",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Diabetes",
+      "Cholesterol",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Pain",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Pain",
+      "Diabetes",
+      "Arthritis",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Depression",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Ulcer",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Insomnia",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Arthritis",
+      "Infection",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Insomnia",
+      "Asthma",
+      "Cold",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Asthma",
+      "Arthritis",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Pain",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Allergy",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Infection",
+      "Arthritis",
+      "Cough",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Diabetes",
+      "Infection",
+      "Ulcer",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Fever",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Heart Disease",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Depression",
+      "Cough",
+      "Infection",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Allergy",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Constipation",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Diabetes",
+      "Ulcer",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Pain",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Pain",
+      "Anxiety",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Arthritis",
+      "Diabetes",
+      "Cold",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Cold",
+      "Insomnia",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Cough",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Pain",
+      "Diabetes",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Infection",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Infection",
+      "Diabetes",
+      "Constipation",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Asthma",
+      "Ulcer",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Diabetes",
+      "Constipation",
+      "Ulcer",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Insomnia",
+      "Thyroid Disorder",
+      "Depression",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Allergy",
+      "Cold",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Allergy",
+      "Cough",
+      "Asthma",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Pain",
+      "Hypertension",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Anxiety",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Acidity",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Depression",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Pain",
+      "Asthma",
+      "Infection",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Migraine",
+      "Allergy",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Diabetes",
+      "Ulcer",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Migraine",
+      "Allergy",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Diabetes",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Insomnia",
+      "Infection",
+      "Cough",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Diabetes",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Arthritis",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Acidity",
+      "Pain",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Migraine",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Cold",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Fever",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Ulcer",
+      "Migraine",
+      "Anxiety",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Infection",
+      "Ulcer",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Ulcer",
+      "Insomnia",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Acidity",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Allergy",
+      "Heart Disease",
+      "Acidity",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Depression",
+      "Diabetes",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Infection",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Constipation",
+      "Cold",
+      "Allergy",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Infection",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Anxiety",
+      "Ulcer",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cold",
+      "Cough",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Arthritis",
+      "Cholesterol",
+      "Infection",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Cough",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Acidity",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Infection",
+      "Anxiety",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Asthma",
+      "Cough",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cough",
+      "Infection",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Cough",
+      "Asthma",
+      "Diabetes",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Ulcer",
+      "Allergy",
+      "Diabetes",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Cough",
+      "Fever",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Migraine",
+      "Diabetes",
+      "Thyroid Disorder",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Insomnia",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Insomnia",
+      "Arthritis",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Infection",
+      "Cough",
+      "Insomnia",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Depression",
+      "Ulcer",
+      "Fever",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Pain",
+      "Anxiety",
+      "Acidity",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Insomnia",
+      "Acidity",
+      "Pain",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Pain",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cough",
+      "Ulcer",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Constipation",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Cough",
+      "Cold",
+      "Thyroid Disorder",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Ulcer",
+      "Acidity",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Constipation",
+      "Depression",
+      "Insomnia",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Fever",
+      "Constipation",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cough",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Depression",
+      "Pain",
+      "Thyroid Disorder",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Depression",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Insomnia",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Acidity",
+      "Heart Disease",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Pain",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Pain",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Acidity",
+      "Heart Disease",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Hypertension",
+      "Constipation",
+      "Cholesterol",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Infection",
+      "Cough",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Acidity",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Diabetes",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Ulcer",
+      "Asthma",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Allergy",
+      "Cholesterol",
+      "Migraine",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Asthma",
+      "Anxiety",
+      "Ulcer",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Constipation",
+      "Diabetes",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Pain",
+      "Asthma",
+      "Acidity",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Depression",
+      "Asthma",
+      "Insomnia",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Cold",
+      "Fever",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Diabetes",
+      "Pain",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Constipation",
+      "Anxiety",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Cold",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cold",
+      "Insomnia",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Allergy",
+      "Constipation",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Insomnia",
+      "Arthritis",
+      "Acidity",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cold",
+      "Arthritis",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Fever",
+      "Cholesterol",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Acidity",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Thyroid Disorder",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Arthritis",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Migraine",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Diabetes",
+      "Cough",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Diabetes",
+      "Pain",
+      "Anxiety",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Anxiety",
+      "Heart Disease",
+      "Asthma",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Fever",
+      "Cold",
+      "Heart Disease",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Anxiety",
+      "Migraine",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Depression",
+      "Asthma",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Anxiety",
+      "Heart Disease",
+      "Hypertension",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Hypertension",
+      "Constipation",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Arthritis",
+      "Cholesterol",
+      "Diabetes",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Thyroid Disorder",
+      "Asthma",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Migraine",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Fever",
+      "Acidity",
+      "Arthritis",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Pain",
+      "Insomnia",
+      "Arthritis",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Allergy",
+      "Insomnia",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Fever",
+      "Depression",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Cough",
+      "Insomnia",
+      "Thyroid Disorder",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Constipation",
+      "Cold",
+      "Thyroid Disorder",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Insomnia",
+      "Constipation",
+      "Diabetes",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Hypertension",
+      "Heart Disease",
+      "Arthritis",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Asthma",
+      "Infection",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Fever",
+      "Ulcer",
+      "Cold",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Cough",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Arthritis",
+      "Acidity",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Allergy",
+      "Cholesterol",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Depression",
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Depression",
+      "Heart Disease",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Acidity",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Fever",
+      "Arthritis",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Pain",
+      "Insomnia",
+      "Allergy",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Acidity",
+      "Fever",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Cold",
+      "Acidity",
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Hypertension",
+      "Infection",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Fever",
+      "Diabetes",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Constipation",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Heart Disease",
+      "Fever",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Migraine",
+      "Allergy",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Anxiety",
+      "Thyroid Disorder",
+      "Insomnia",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Infection",
+      "Cold",
+      "Pain",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Cough",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Fever",
+      "Migraine",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Infection",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Ulcer",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Insomnia",
+      "Depression",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Anxiety",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Arthritis",
+      "Thyroid Disorder",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Diabetes",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Depression",
+      "Hypertension",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Depression",
+      "Allergy",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Migraine",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Cold",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Cough",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Anxiety",
+      "Arthritis",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Arthritis",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Anxiety",
+      "Asthma",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Arthritis",
+      "Infection",
+      "Constipation",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Constipation",
+      "Arthritis",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Allergy",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Fever",
+      "Pain",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Infection",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Infection",
+      "Allergy",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Cold",
+      "Infection",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Depression",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Asthma",
+      "Infection",
+      "Ulcer",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Asthma",
+      "Anxiety",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Depression",
+      "Cough",
+      "Anxiety",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Insomnia",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Depression",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Migraine",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cholesterol",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Depression",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Insomnia",
+      "Cough",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Pain",
+      "Anxiety",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Depression",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Insomnia",
+      "Heart Disease",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Heart Disease",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Acidity",
+      "Ulcer",
+      "Arthritis",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Depression",
+      "Acidity",
+      "Arthritis",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Arthritis",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Hypertension",
+      "Acidity",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Arthritis",
+      "Diabetes",
+      "Constipation",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Acidity",
+      "Allergy",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Cold",
+      "Cholesterol",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Acidity",
+      "Cholesterol",
+      "Thyroid Disorder",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Constipation",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Asthma",
+      "Constipation",
+      "Ulcer",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Infection",
+      "Cough",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Pain",
+      "Migraine",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Depression",
+      "Cholesterol",
+      "Anxiety",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Infection",
+      "Depression",
+      "Heart Disease",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Allergy",
+      "Heart Disease",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Insomnia",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Ulcer",
+      "Cold",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Insomnia",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Allergy",
+      "Depression",
+      "Cough",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Acidity",
+      "Pain",
+      "Migraine",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Hypertension",
+      "Fever",
+      "Acidity",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Migraine",
+      "Arthritis",
+      "Cough",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Fever",
+      "Insomnia",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Allergy",
+      "Depression",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Ulcer",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cholesterol",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Infection",
+      "Fever",
+      "Constipation",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Infection",
+      "Thyroid Disorder",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Cough",
+      "Diabetes",
+      "Pain",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Diabetes",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Insomnia",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Infection",
+      "Depression",
+      "Anxiety",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Hypertension",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Cough",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Cough",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Acidity",
+      "Constipation",
+      "Depression",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Heart Disease",
+      "Cholesterol",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Migraine",
+      "Thyroid Disorder",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Asthma",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Allergy",
+      "Acidity",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Ulcer",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Hypertension",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Cold",
+      "Asthma",
+      "Ulcer",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Fever",
+      "Cold",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Depression",
+      "Thyroid Disorder",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Anxiety",
+      "Diabetes",
+      "Ulcer",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Pain",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Arthritis",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Hypertension",
+      "Migraine",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Fever",
+      "Pain",
+      "Acidity",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Allergy",
+      "Migraine",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Infection",
+      "Hypertension",
+      "Cold",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Infection",
+      "Asthma",
+      "Depression",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Cough",
+      "Pain",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Cough",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Allergy",
+      "Hypertension",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Allergy",
+      "Thyroid Disorder",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Hypertension",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Migraine",
+      "Asthma",
+      "Fever",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Infection",
+      "Migraine",
+      "Anxiety",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Infection",
+      "Cold",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Acidity",
+      "Pain",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Pain",
+      "Arthritis",
+      "Cholesterol",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Migraine",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Depression",
+      "Hypertension",
+      "Cholesterol",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Anxiety",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Anxiety",
+      "Insomnia",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Constipation",
+      "Pain",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Anxiety",
+      "Constipation",
+      "Thyroid Disorder",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Ulcer",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Ulcer",
+      "Migraine",
+      "Constipation",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Acidity",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Constipation",
+      "Depression",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Diabetes",
+      "Thyroid Disorder",
+      "Ulcer",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Thyroid Disorder",
+      "Allergy",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Asthma",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Constipation",
+      "Depression",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Constipation",
+      "Fever",
+      "Pain",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Arthritis",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Hypertension",
+      "Migraine",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Diabetes",
+      "Infection",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Allergy",
+      "Insomnia",
+      "Anxiety",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Acidity",
+      "Allergy",
+      "Heart Disease",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Depression",
+      "Fever",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Allergy",
+      "Arthritis",
+      "Cholesterol",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Arthritis",
+      "Allergy",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Arthritis",
+      "Hypertension",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Depression",
+      "Pain",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Migraine",
+      "Ulcer",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Constipation",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cold",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Cough",
+      "Heart Disease",
+      "Migraine",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Ulcer",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder",
+      "Fever",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Infection",
+      "Depression",
+      "Fever",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Insomnia",
+      "Pain",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Arthritis",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Depression",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Cold",
+      "Pain",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Fever",
+      "Acidity",
+      "Heart Disease",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Migraine",
+      "Diabetes",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Migraine",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Pain",
+      "Thyroid Disorder",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Constipation",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Cough",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Cold",
+      "Hypertension",
+      "Insomnia",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Infection",
+      "Cough",
+      "Constipation",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Constipation",
+      "Acidity",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Cough",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Cough",
+      "Anxiety",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Anxiety",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Acidity",
+      "Cough",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Diabetes",
+      "Pain",
+      "Depression",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Ulcer",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Cold",
+      "Hypertension",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Pain",
+      "Ulcer",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Asthma",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Depression",
+      "Constipation",
+      "Arthritis",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Fever",
+      "Allergy",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Allergy",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Acidity",
+      "Cholesterol",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Simvastatin",
+    "synonyms": [
+      "Zocor"
+    ],
+    "indications": [
+      "Acidity",
+      "Hypertension",
+      "Constipation",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Ulcer",
+      "Cold",
+      "Pain",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Ulcer",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Anxiety",
+      "Thyroid Disorder",
+      "Acidity",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Thyroid Disorder",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Acidity",
+      "Asthma",
+      "Cholesterol",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Cough",
+      "Hypertension",
+      "Infection",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Diabetes",
+      "Constipation",
+      "Cold",
+      "Fever"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Allergy",
+      "Hypertension",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Hypertension",
+      "Ulcer",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Insomnia",
+      "Depression"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Migraine",
+      "Cough",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Hypertension",
+      "Cold",
+      "Pain",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Cough",
+      "Infection",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Allergy",
+      "Acidity",
+      "Thyroid Disorder",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Cough",
+      "Acidity",
+      "Heart Disease"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Depression",
+      "Acidity",
+      "Heart Disease",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Constipation",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Anxiety",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cough",
+      "Diabetes",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Montelukast",
+    "synonyms": [
+      "Singulair"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Insomnia",
+      "Cough",
+      "Allergy"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Anxiety",
+      "Arthritis",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Migraine",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Constipation",
+      "Acidity",
+      "Allergy",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Depression",
+      "Cholesterol",
+      "Fever",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Arthritis",
+      "Depression",
+      "Asthma",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Losartan",
+    "synonyms": [
+      "Cozaar"
+    ],
+    "indications": [
+      "Cold",
+      "Acidity",
+      "Insomnia"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Acidity",
+      "Migraine",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Hypertension",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Cold",
+      "Cough",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Asthma",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Prednisolone",
+    "synonyms": [
+      "Prednisone"
+    ],
+    "indications": [
+      "Infection",
+      "Arthritis",
+      "Acidity",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Ulcer",
+      "Heart Disease",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Pain",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Anxiety",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Hypertension",
+      "Cough"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Hypertension",
+      "Acidity",
+      "Fever",
+      "Anxiety"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Cholesterol",
+      "Pain",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Diabetes",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Insomnia",
+      "Thyroid Disorder",
+      "Pain"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Infection",
+      "Heart Disease",
+      "Hypertension",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Cough",
+      "Constipation",
+      "Diabetes"
+    ]
+  },
+  {
+    "name": "Metformin",
+    "synonyms": [
+      "Glucophage"
+    ],
+    "indications": [
+      "Anxiety",
+      "Acidity",
+      "Thyroid Disorder"
+    ]
+  },
+  {
+    "name": "Salbutamol",
+    "synonyms": [
+      "Albuterol"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Arthritis",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Atorvastatin",
+    "synonyms": [
+      "Lipitor"
+    ],
+    "indications": [
+      "Constipation",
+      "Allergy",
+      "Heart Disease",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Allergy",
+      "Insomnia",
+      "Cholesterol",
+      "Arthritis"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Migraine",
+      "Cough",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Pantoprazole",
+    "synonyms": [
+      "Protonix"
+    ],
+    "indications": [
+      "Ulcer",
+      "Cough",
+      "Diabetes",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Clopidogrel",
+    "synonyms": [
+      "Plavix"
+    ],
+    "indications": [
+      "Anxiety",
+      "Diabetes",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Amlodipine",
+    "synonyms": [
+      "Norvasc"
+    ],
+    "indications": [
+      "Diabetes",
+      "Cold",
+      "Fever",
+      "Migraine"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Allergy",
+      "Diabetes",
+      "Insomnia",
+      "Cholesterol"
+    ]
+  },
+  {
+    "name": "Ciprofloxacin",
+    "synonyms": [
+      "Cipro"
+    ],
+    "indications": [
+      "Cholesterol",
+      "Hypertension",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Fever",
+      "Asthma",
+      "Hypertension",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Loratadine",
+    "synonyms": [
+      "Claritin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Ulcer"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Ulcer",
+      "Fever",
+      "Thyroid Disorder",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Ibuprofen",
+    "synonyms": [
+      "Advil",
+      "Motrin"
+    ],
+    "indications": [
+      "Heart Disease",
+      "Insomnia",
+      "Thyroid Disorder",
+      "Hypertension"
+    ]
+  },
+  {
+    "name": "Paracetamol",
+    "synonyms": [
+      "Acetaminophen"
+    ],
+    "indications": [
+      "Anxiety",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Cetirizine",
+    "synonyms": [
+      "Zyrtec"
+    ],
+    "indications": [
+      "Diabetes",
+      "Infection"
+    ]
+  },
+  {
+    "name": "Amoxicillin",
+    "synonyms": [
+      "Mox",
+      "Trimox"
+    ],
+    "indications": [
+      "Hypertension",
+      "Anxiety",
+      "Ulcer",
+      "Asthma"
+    ]
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "synonyms": [
+      "HCTZ"
+    ],
+    "indications": [
+      "Acidity",
+      "Cold"
+    ]
+  },
+  {
+    "name": "Omeprazole",
+    "synonyms": [
+      "Prilosec"
+    ],
+    "indications": [
+      "Diabetes",
+      "Allergy",
+      "Cold",
+      "Constipation"
+    ]
+  },
+  {
+    "name": "Aspirin",
+    "synonyms": [
+      "Acetylsalicylic acid"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Pain",
+      "Acidity"
+    ]
+  },
+  {
+    "name": "Insulin",
+    "synonyms": [
+      "Novolin",
+      "Humulin"
+    ],
+    "indications": [
+      "Thyroid Disorder",
+      "Pain"
+    ]
+  }
+]

@@ -35,29 +35,29 @@ import {
 
 const data = {
   user: {
-    name: "shadcn",
-    email: "m@example.com",
-    avatar: "/avatars/shadcn.jpg",
+    name: "vijayperumal",
+    email: "vijayperumal@example.com",
+    avatar: "",
   },
   navMain: [
     {
       title: "Dashboard",
-      url: "#",
+      url: "/dashboard",
       icon: IconDashboard,
     },
     {
       title: "Doctors",
-      url: "#",
+      url: "/doctors",
       icon: IconListDetails,
     },
     {
       title: "Patients",
-      url: "#",
+      url: "/patients",
       icon: IconChartBar,
     },
     {
-      title: "Projects",
-      url: "#",
+      title: "Medicines",
+      url: "/medicines",
       icon: IconFolder,
     },
     {
@@ -170,8 +170,6 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
       </SidebarHeader>
       <SidebarContent>
         <NavMain items={data.navMain} />
-        <NavDocuments items={data.documents} />
-        <NavSecondary items={data.navSecondary} className="mt-auto" />
       </SidebarContent>
       <SidebarFooter>
         <NavUser user={data.user} />
