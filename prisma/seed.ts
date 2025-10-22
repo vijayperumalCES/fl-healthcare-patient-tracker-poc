@@ -1,7 +1,7 @@
 // prisma/seed.ts
 import { PrismaClient } from "@prisma/client";
 import { faker } from "@faker-js/faker";
-import { medicines } from "./medicines.js";
+//import { medicines } from "./medicines.js";
 
 const prisma = new PrismaClient();
 
