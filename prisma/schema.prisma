@@ -14,6 +14,12 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum Gender {
+  MALE
+  FEMALE
+  OTHER
+}
+
 model User {
   id            String    @id
   name          String
@@ -24,6 +30,7 @@ model User {
   updatedAt     DateTime  @default(now()) @updatedAt
   sessions      Session[]
   accounts      Account[]
+  doctor     Doctor?  @relation("UserDoctor")
 
   @@unique([email])
   @@map("user")
@@ -72,4 +79,56 @@ model Verification {
   updatedAt  DateTime @default(now()) @updatedAt
 
   @@map("verification")
+}
+
+model Medicine {
+  id          String   @id @default(uuid())
+  name        String   @unique
+  synonyms    String[]  // array of alternate names
+  atcCode     String?   // optional ATC code
+  indications String[]  // array of indications
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model Doctor {
+  id           String   @id @default(uuid())
+  name         String
+  education    String?
+  specialties  String[] // Postgres array
+  experienceYr Int?
+  imageUrl     String?
+  contact      String?
+  remarks      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  userId       String?  @unique
+  user         User?    @relation("UserDoctor", fields: [userId], references: [id])
+  visits       Visit[]
+}
+
+
+model Patient {
+  id         String   @id @default(uuid())
+  name       String
+  dob        DateTime
+  gender     Gender?
+  phone      String?
+  email      String?  @unique
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  visits     Visit[]
+}
+
+model Visit {
+  id         String   @id @default(uuid())
+  patientId  String
+  doctorId   String?
+  date       DateTime @default(now())
+  notes      String
+  treatment  String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+  patient    Patient  @relation(fields: [patientId], references: [id])
+  doctor     Doctor?  @relation(fields: [doctorId], references: [id])
 }

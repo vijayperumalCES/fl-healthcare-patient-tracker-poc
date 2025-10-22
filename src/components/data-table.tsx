@@ -108,6 +108,7 @@ import {
 
 export const schema = z.object({
   id: z.number(),
+  name: z.string(),
   header: z.string(),
   type: z.string(),
   status: z.string(),

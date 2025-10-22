@@ -4,6 +4,8 @@ import "./globals.css";
 import AppShell from "@/components/layout/AppShell";
 import { TRPCReactProvider } from "@/trpc/client";
 import { Toaster } from "@/components/ui/sonner";
+import { NuqsAdapter } from 'nuqs/adapters/next/app'
+import { ThemeProvider } from "@/components/theme-provider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,12 +32,23 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <ThemeProvider
+            attribute="class"
+            defaultTheme="light"
+            //enableSystem
+            disableTransitionOnChange
+          >
+            
+          
         <TRPCReactProvider>
+          <NuqsAdapter>
           {/* <AppShell> */}
             {children}
             {/* </AppShell> */}
           <Toaster />
+          </NuqsAdapter>
         </TRPCReactProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

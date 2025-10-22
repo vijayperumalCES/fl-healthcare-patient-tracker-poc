@@ -1,4 +1,4 @@
-[
+export const medicines = [
   {
     "name": "Omeprazole",
     "synonyms": [

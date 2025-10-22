@@ -3,8 +3,9 @@ import { useTRPC } from "@/trpc/client";
 import { useSuspenseQuery } from "@tanstack/react-query";
 
 export const AppClient = () => {
-    const trpc = useTRPC();
-    const { data: patients } = useSuspenseQuery(trpc.getPatients.queryOptions());
+    // const trpc = useTRPC();
+    // {JSON.stringify(patients)}
+    // const { data: patients } = useSuspenseQuery(trpc.getPatients.queryOptions());
 
-  return <div>{JSON.stringify(patients)}</div>;
+  return <div></div>;
 }
