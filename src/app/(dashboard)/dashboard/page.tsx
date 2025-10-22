@@ -14,8 +14,10 @@ import { ChartPieDonutText } from "@/components/dasboards/chart-pie-donut-text"
 import { ChartPieInteractive } from "@/components/dasboards/chart-pie-interactive"
 import { ChartBarLabelCustom } from "@/components/dasboards/chart-bar-label-custom"
 import { ChartBarInteractive } from "@/components/dasboards/chart-bar-interactive"
+import { requireAuth } from "@/lib/auth-utils"
 
-export default function Page() {
+export default async function Page() {
+   await requireAuth();
   return (
      <div className="flex flex-1 flex-col">
           <div className="@container/main flex flex-1 flex-col gap-2">
