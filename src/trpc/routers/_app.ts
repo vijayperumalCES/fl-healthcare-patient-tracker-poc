@@ -1,7 +1,8 @@
 import { medicinesRouter } from "@/features/medicines/server/routers";
-import { baseProcedure, createTRPCRouter, protectedProcedure } from "../init";
+import { createTRPCRouter, protectedProcedure } from "../init";
 import prisma from "@/lib/db";
 import { doctorsRouter } from "@/features/doctors/server/routers";
+import { patientsRouter } from "@/features/patients/server/routers";
 export const appRouter = createTRPCRouter({
 
   getUsers: protectedProcedure.query(({ ctx }) => {
@@ -15,6 +16,7 @@ export const appRouter = createTRPCRouter({
   }),
   medicines: medicinesRouter,
   doctors: doctorsRouter,
+  patients: patientsRouter,
 });
 //   getPatients: baseProcedure.query(() => {
 //     return prisma.patient.findMany();

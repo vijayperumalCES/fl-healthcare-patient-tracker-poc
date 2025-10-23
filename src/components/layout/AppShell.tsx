@@ -40,7 +40,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               <Dock className="w-4 h-4" /> Doctors
             </a>
             <a
-              href="#"
+              href="/patients"
               className="flex items-center gap-2 hover:text-black transition-colors"
             >
               <User className="w-4 h-4" /> Patients
@@ -52,13 +52,13 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
               <PillBottle className="w-4 h-4" /> Medicines
             </a>
             <a
-              href="#"
+              href="/visits"
               className="flex items-center gap-2 hover:text-black transition-colors"
             >
               <Activity className="w-4 h-4" /> Visits
             </a>
             <a
-              href="#"
+              href="/schedules"
               className="flex items-center gap-2 hover:text-black transition-colors"
             >
               <Calendar className="w-4 h-4" /> Schedules
