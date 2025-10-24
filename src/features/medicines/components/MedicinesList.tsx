@@ -3,6 +3,7 @@
 import { DataTable } from "@/components/data-table";
 import { useSuspenseMedicines } from "../hooks/use-medicines";
 import { EntityContainer, EntityHeader } from "@/components/entity-components";
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 
 export const MedicinesList = () => {
   const { data: medicines } = useSuspenseMedicines();
@@ -11,26 +12,34 @@ export const MedicinesList = () => {
     
     <div>
         {/* <DataTable data={medicines.items} /> */}
-      <table className="table table-auto w-full border-collapse border border-gray-200">
-        <thead>
-          <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Synonyms</th>
-            <th>Indications</th>
-          </tr>
-        </thead>
-        <tbody>
-          {medicines.items.map((medicine) => (
-            <tr key={medicine.id}>
-              <td>{medicine.id}</td>
-              <td>{medicine.name}</td>
-              <td>{medicine.synonyms.join(", ")}</td>
-              <td>{medicine.indications.join(", ")}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <Table>
+        <TableHeader>
+            <TableRow>
+                {/* <TableHead className="w-[100px]">ID</TableHead> */}
+                <TableHead>Name</TableHead>
+                <TableHead>Synonyms</TableHead>
+                <TableHead>Indications</TableHead>
+            </TableRow>
+        </TableHeader>
+        <TableBody>
+            {medicines?.items?.map((medicine) => (
+                <TableRow key={medicine.id}>
+                    {/* <TableCell className="font-medium">{medicine.id}</TableCell> */}
+                    <TableCell className="font-medium">{medicine.name}</TableCell>
+                    <TableCell>
+                        {medicine.synonyms && medicine.synonyms.length
+                            ? medicine.synonyms.join(", ")
+                            : "—"}
+                    </TableCell>
+                    <TableCell>
+                        {medicine.indications && medicine.indications.length
+                            ? medicine.indications.join(", ")
+                            : "—"}
+                    </TableCell>
+                </TableRow>
+            ))}
+        </TableBody>
+    </Table>
     </div>
   );
 };
